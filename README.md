@@ -1,0 +1,2 @@
+# YogaSchool
+Managing Yoga School
